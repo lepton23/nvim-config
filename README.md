@@ -2,4 +2,4 @@
 
 Personal Neovim config. \
 Mostly for version control - idk why anyone would want to use this lol. \
-I started this from NvChad. \
+I started this from NvChad. 
